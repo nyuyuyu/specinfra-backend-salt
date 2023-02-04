@@ -1,0 +1,11 @@
+AllCops:
+  NewCops: disable
+
+Gemspec/RequiredRubyVersion:
+  Enabled: false
+
+Style/Encoding:
+  Enabled: false
+
+Style/Documentation:
+  Enabled: false
